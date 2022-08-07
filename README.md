@@ -1,3 +1,3 @@
 # Silicon-data
 
-Simulation data for Silicon forcefields (Tersoff and Stillinger-Weber) with LAMMPS.
+Simulation data for Silicon forcefields (Tersoff, Stillinger-Weber and EDIP) with LAMMPS.
